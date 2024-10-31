@@ -1,6 +1,6 @@
 {
-	"name": "sqljs-fts5",
-	"version": "1.12.5",
+	"name": "fts5sqljs",
+	"version": "1.12.6",
 	"description": "SQLite library with support for opening and writing databases, prepared statements, and more. This SQLite library is in pure javascript (compiled with emscripten).",
 	"keywords": [
 		"sql",
